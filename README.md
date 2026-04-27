@@ -14,5 +14,3 @@ cd ~/ros2_ws1
 colcon build
 source install/setup.bash
 
-ros2 run fake_robot_mover talker
-ros2 run fake_robot_mover listener
